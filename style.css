@@ -55,7 +55,7 @@ body {
     width: 16px;
 }
 
-.error{
+.error {
     display: none;
     color: red;
     text-align: left;
@@ -63,6 +63,7 @@ body {
     font-size: 17px;
     margin-top: 10px;
 }
+
 .weather {
     flex-direction: column;
     display: none;
@@ -98,7 +99,9 @@ body {
     width: 40px;
     margin-right: 10px;
 }
-.humidity, .wind{
+
+.humidity,
+.wind {
     font-size: 28px;
     margin-top: -6px;
 }
